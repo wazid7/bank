@@ -1,0 +1,14 @@
+
+
+section.login-form {
+    width: 500px;
+}
+.mainclass {
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input-filed {
+    width: 100%;
+}
